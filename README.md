@@ -6,6 +6,12 @@ minutes of focused work, followed by a 5-minute break.
 
 ------------------------------------------------------------------------
 
+## 🖼️ Screenshots
+
+![Pomodoro Timer](images/Screenshot_tomodoro.png)
+
+------------------------------------------------------------------------
+
 ## ✨ Features
 
 -   ⏰ 25-minute work sessions
